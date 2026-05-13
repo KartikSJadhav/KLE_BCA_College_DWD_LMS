@@ -158,26 +158,6 @@ Create a `.env` file using `.env.example`
 PORT=5000
 ```
 
----
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-- Modern dashboard
-- Book listings
-- Search functionality
-
-### 📚 Book Management
-- View book details
-- Popularity tracking
-- Interactive modal system
-
-### 🤖 Chatbot
-- Smart assistance for users
-- Instant query support
-
----
-
 ## 📊 Future Enhancements
 
 - 🔐 Authentication System
