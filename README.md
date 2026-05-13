@@ -44,3 +44,177 @@ This application was developed through an iterative AI-assisted process:
 
 ## 🛡 License
 Internal Project for **KLE BCA College**. Built with ❤️ for the Alliance.
+The KLE_BCA_COLLEGE_DWD_Library_Management_System App Overview
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cbf27d06-528c-407e-a2f1-f95bbf75f3ef" />
+
+# 📚 College Library Management System
+
+A modern and responsive **College Library Management System** built using **React + TypeScript + Vite** with an interactive UI for managing books, users, and library operations.
+
+---
+
+## 🚀 Features
+
+- 📖 Browse Available Books
+- 🔍 Search & Filter Books
+- 👤 User Portal
+- 🤖 Integrated Chatbot Support
+- 📊 Popularity Statistics
+- 📱 Responsive Design
+- ⚡ Fast Performance with Vite
+- 🎨 Modern UI Components
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| React | Frontend UI |
+| TypeScript | Type Safety |
+| Vite | Build Tool |
+| CSS | Styling |
+| Node.js | Backend Runtime |
+| Express | Server Handling |
+| JSON Database | Data Storage |
+
+---
+
+## 📂 Project Structure
+
+```bash
+College-Library-Management-System/
+│
+├── public/
+│   └── User.html
+│
+├── src/
+│   ├── assets/
+│   │   └── images/
+│   │
+│   ├── components/
+│   │   ├── BookCard.tsx
+│   │   ├── BookModal.tsx
+│   │   ├── Chatbot.tsx
+│   │   ├── Header.tsx
+│   │   └── PopularityStats.tsx
+│   │
+│   ├── hooks/
+│   │   └── useBooks.ts
+│   │
+│   ├── App.tsx
+│   ├── main.tsx
+│   ├── index.css
+│   └── types.ts
+│
+├── server.ts
+├── db.json
+├── package.json
+├── vite.config.ts
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/your-username/college-library-management-system.git
+```
+
+### 2️⃣ Navigate to Project Folder
+
+```bash
+cd college-library-management-system
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Start Development Server
+
+```bash
+npm run dev
+```
+
+### 5️⃣ Run Backend Server
+
+```bash
+npm run server
+```
+
+---
+
+## 🌐 Environment Variables
+
+Create a `.env` file using `.env.example`
+
+```env
+PORT=5000
+```
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+- Modern dashboard
+- Book listings
+- Search functionality
+
+### 📚 Book Management
+- View book details
+- Popularity tracking
+- Interactive modal system
+
+### 🤖 Chatbot
+- Smart assistance for users
+- Instant query support
+
+---
+
+## 📊 Future Enhancements
+
+- 🔐 Authentication System
+- 📅 Book Issue & Return Tracking
+- 💳 Fine Management
+- ☁️ Cloud Database Integration
+- 📧 Email Notifications
+- 🧾 Admin Dashboard
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+```bash
+# Fork repository
+# Create feature branch
+git checkout -b feature-name
+
+# Commit changes
+git commit -m "Added new feature"
+
+# Push branch
+git push origin feature-name
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Developer
+
+**Kartik S Jadhav**
+
+> Built with ❤️ for efficient college library management.
