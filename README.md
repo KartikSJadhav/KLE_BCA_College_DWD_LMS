@@ -198,3 +198,4 @@ This project is licensed under the **MIT License**.
 **Kartik S Jadhav**
 
 > Built with ❤️ for efficient college library management.
+## Built using Google AI Studio
